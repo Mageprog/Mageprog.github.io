@@ -25,6 +25,13 @@ article {
     border-right: 2px solid #ddd;
 }
 
+#dog {
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 300px;
+    z-index: 10;
+}
+
 h2, h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
